@@ -4,7 +4,7 @@ public class test1{
         System.out.println("Amanda is brown!");
     }
     
-    public static int sum(int a, int b){
-        return a+b;
+    public static int sum(int x, int y){
+        return x + y;
     }
 }
