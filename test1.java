@@ -8,6 +8,10 @@ public class test1{
         return x + y;
     }
     
+    public static int subtract(int x, int y){
+        return x-y;
+    }
+    
     public static int multiply(int x, int y){
         int result = 0;
         for(int i = 0; i < y; i++){
